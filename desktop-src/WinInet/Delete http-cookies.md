@@ -1,0 +1,2 @@
+---
+delete HTTP Cookies
